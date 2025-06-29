@@ -55,7 +55,7 @@ finanzas/
 
 1. Clona el repositorio:
    ```sh
-   git clone <>
+   git clone <https://github.com/Nikotastic/Control-de-Gastos-e-Ingresos.git>
    cd finanzas
    ```
 
